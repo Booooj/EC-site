@@ -33,7 +33,7 @@
         $dbh = null;
 
         print$staff_name;
-        print'さんを追加しました。<br />';
+        print'さんを保存しました。<br />';
      }
      catch(Exception $e)
      {
