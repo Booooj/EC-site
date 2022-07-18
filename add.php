@@ -13,9 +13,9 @@
         スタッフ名を入力してください。<br />
         <input type="text" name="name"><br />
         パスワードを入力してください。<br />
-        <input type="password" name="password"><br />
+        <input type="password" name="pass"><br />
         パスワードをもう一度入力してください。
-        <input type="password" name="password"><br />
+        <input type="password" name="pass2"><br />
         <br />
         <input type="button" onclick="back()"value="戻る">
         <input type="submit"value="保存">
